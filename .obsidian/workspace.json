@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "40564b13ca1749fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "be657c81f2c27fe7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0527a194908cda4a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a6a0bc40d9439e0e",
+    "type": "split",
+    "children": [
+      {
+        "id": "212da7a3e7686b1c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f52f5d31c857379",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "27aecc35c2b884f2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4481cedee48a88ce",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "21b248c15dfdd57c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8e47ff6aa0a40c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56bcf7df0864f912",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "769b0e3a8b90228b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "21ea3b1428d1e60f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "deabce43ff896e14",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0527a194908cda4a",
+  "lastOpenFiles": [
+    "Bank dashboard.canvas",
+    "2024-03-12.md",
+    "Untitled.md",
+    "Existing Products.md",
+    "Obscurus.md",
+    "Plan of Action.md",
+    "Untitled"
+  ]
+}
